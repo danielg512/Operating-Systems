@@ -5,3 +5,7 @@ A graphical user interface (GUI) uses menus and images for interactions.
 The command-line interface is a different method for entering data/instructions for the computer.
 Commands are typically short keywords used to streamline the process.
 Special keys and combinations on the keyboard can also do this.
+Operating systems also manage your computers memory usage.
+This is meant to optimize the use of your computers memory.
+RAM (random access memory) is one type of memory that your computer uses.
+Your operating system can also use virtual memory to supplement RAM.
