@@ -1,0 +1,4 @@
+Operating systems provide a user interface for your computer.
+The user interface can be called "UI" for short.
+The user interface controls how you (the user) see information on the screen and interact with applications.
+A graphical user interface (GUI) uses menus and images for interactions.
